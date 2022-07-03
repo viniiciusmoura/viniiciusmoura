@@ -1,7 +1,7 @@
   ### Olá 👋
 
 - 🙋‍♂️ Sou o Vinícius! 
-- 💡 Buscando conhecer a tecnologia 
+- 💡 Buscando conhecer sobre tecnologia 
 - 👨‍💻 Pretendo atuar na área de desenvolvimento(back-end)
 
 <div align="center">
